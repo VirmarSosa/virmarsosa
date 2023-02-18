@@ -4,7 +4,6 @@
 
 
 :woman_student: I am a Bachelor in Business Administration with a Master in Finance
-🔭 I’m currently working on Amazon
 🌱 I’m currently learning Data Science
 
 
