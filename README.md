@@ -6,5 +6,5 @@
 
 :woman_student: I am a Bachelor in Business Administration with a Master in Finance
 🌱 I’m currently learning Data Science
-🤔 I’m looking for help with coding skills
-:envelope_with_arrow: I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
+🤔 I’m looking to learn new coding skills as much as possible!
+:envelope_with_arrow: I love connecting with different people so if you want to say hi, I'll be happy to meet you and hook up!
