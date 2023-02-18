@@ -5,7 +5,7 @@
 
 :woman_student: I am a Bachelor in Business Administration with a Master in Finance
 🌱 I’m currently learning Data Science
-
+🤔 i’m looking for help with coding skills
 
 <!--
 **VirmarSosa/virmarsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
