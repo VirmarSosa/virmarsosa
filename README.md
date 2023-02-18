@@ -2,8 +2,8 @@
 
 ![yogocat_animation](https://user-images.githubusercontent.com/118692087/219830212-33eeb4c5-a159-4a76-a0eb-afe27cc1f399.gif)
 
-![image](https://user-images.githubusercontent.com/118692087/219830892-fef3f2b0-a298-471b-b8e2-5da3149ed7cc.png)
 
+:woman_student:
 🔭 I’m currently working on Amazon
 🌱 I’m currently learning Data Science
 
