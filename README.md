@@ -5,6 +5,6 @@
 
 
 :woman_student: I am a Bachelor in Business Administration with a Master in Finance
-🌱 I’m currently learning Data Science
+🌱 I’m currently learning Data Science in Rutgers University
 🤔 I’m looking to learn new coding skills as much as possible!
 :envelope_with_arrow: I love connecting with different people so if you want to say hi, I'll be happy to meet you and collaborate in developing new projects!
