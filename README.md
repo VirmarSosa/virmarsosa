@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/118692087/219830168-38922231-41ad-4f35-bf38-88a61f5a36bd.png)
+![yogocat_animation](https://user-images.githubusercontent.com/118692087/219830212-33eeb4c5-a159-4a76-a0eb-afe27cc1f399.gif)
 
 
 <!--
