@@ -1,5 +1,4 @@
-### Hi there 👋 ![image](https://user-images.githubusercontent.com/118692087/219830763-26c059ed-bb16-49e5-be9f-4ec052327028.png)
-
+### Hi there 👋 
 
 ![yogocat_animation](https://user-images.githubusercontent.com/118692087/219830212-33eeb4c5-a159-4a76-a0eb-afe27cc1f399.gif)
 
@@ -10,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Amazon
-- 🌱 I’m currently learning Data Science
-- 🤔 i’m looking for help with coding skills
+🔭 I’m currently working on Amazon
+🌱 I’m currently learning Data Science
+🤔 i’m looking for help with coding skills
 
